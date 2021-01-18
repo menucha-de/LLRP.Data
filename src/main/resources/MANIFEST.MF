@@ -1,0 +1,12 @@
+Bundle-Name: Ha-VIS Middleware LLRP Messages and Parameters
+Bundle-SymbolicName: havis.llrpservice-data
+Bundle-Version: 2.6.0
+Implementation-Version: 2.6
+Bundle-ManifestVersion: 2
+Bundle-Vendor: HARTING IT_SD
+Export-Package: 
+ havis.llrpservice.data,
+ havis.llrpservice.data.message,
+ havis.llrpservice.data.message.parameter,
+ havis.llrpservice.data.message.parameter.serializer,
+ havis.llrpservice.data.message.serializer
